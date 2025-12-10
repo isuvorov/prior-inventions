@@ -2,23 +2,23 @@
 
 
 1. **LSK.js**  
-   **Description:** Framework ecosystem created independently prior to employment.  
+   **Description:** Framework ecosystem
    **URL:** https://github.com/lskjs
 
 2. **Nestlib**  
-   **Description:** Modules for Nest.js developed independently before employment.  
+   **Description:** Modules for Nest.js
    **URL:** https://github.com/nestlibs
 
 3. **YCMD**  
-   **Description:** Framework for a CLI command system created independently prior to employment.  
+   **Description:** Framework for a CLI command system
    **URL:** https://github.com/ycmds
 
 4. **RcKit**  
-   **Description:** React components framework developed independently prior to employment.  
+   **Description:** React components framework
    **URL:** https://github.com/rckit
 
 5. **Axiomus**  
-   **Description:** AI Prompt Framework created independently prior to employment.  
+   **Description:** AI Prompt Framework
    **URL:** https://github.com/axiomus
 
 
