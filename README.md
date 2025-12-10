@@ -2,23 +2,23 @@
 
 
 1. **LSK.js**  
-   **Description:** Framework ecosystem
+   **Description:** Framework ecosystem 
    **URL:** https://github.com/lskjs
 
 2. **Nestlib**  
-   **Description:** Modules for Nest.js
+   **Description:** Modules for Nest.js 
    **URL:** https://github.com/nestlibs
 
 3. **YCMD**  
-   **Description:** Framework for a CLI command system
+   **Description:** Framework for a CLI command system 
    **URL:** https://github.com/ycmds
 
 4. **RcKit**  
-   **Description:** React components framework
+   **Description:** React components framework 
    **URL:** https://github.com/rckit
 
 5. **Axiomus**  
-   **Description:** AI Prompt Framework
+   **Description:** AI Prompt Framework 
    **URL:** https://github.com/axiomus
 
 
